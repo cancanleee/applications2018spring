@@ -2,15 +2,15 @@
   "entrypoints" : [
     {
       "name" : "Home Page",
-      "file" : "hp.png"
+      "file" : "hp1.png"
     },
     {
       "name" : "Products List Page",
-      "file" : "list.png"
+      "file" : "list1.png"
     },
     {
       "name" : "Product Detail Page",
-      "file" : "product.png"
+      "file" : "product1.png"
     }
   ]
 }
