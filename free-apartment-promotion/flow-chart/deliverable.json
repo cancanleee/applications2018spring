@@ -1,0 +1,12 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Flow Chart of Main Website",
+      "file" : "ez.png"
+    },
+    {
+      "name" : "Flow Chart of Sign-up Page",
+      "file" : "1.png"
+    }
+  ]
+}
